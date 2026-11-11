@@ -1,0 +1,5 @@
+proveedor,productos_ofrecidos,sobrecosto_promedio_pct,dias_entrega_prometidos,pedidos,dias_entrega_real_promedio,pct_pedidos_atrasados,retraso_promedio,estado_datos
+Proveedor A,60,16.240545911037035,2.0,16118.0,2.159511105596228,8.096538032013898,0.15951110559622783,Con pedidos observados
+Proveedor B,60,0.0,5.0,373.0,5.619302949061662,30.831099195710454,0.6193029490616622,Con pedidos observados
+Proveedor C,23,7.775340565285155,3.0,,,,,Sin pedidos observados
+Proveedor D,37,23.387987231428973,1.0,34176.0,1.1051615168539326,5.225889513108614,0.10516151685393259,Con pedidos observados
